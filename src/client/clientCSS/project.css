@@ -1,0 +1,16 @@
+.project-wrap {
+    display: flex;
+    wrap-option: wrap;
+    justify-content: center;
+    width: 90%;
+    height: fit-content;
+    margin: 10%;
+}
+
+/*넓이는 유동적으로 변하므로 추후에 지정해도 될 듯.*/
+.project {
+    width: 400px;
+    height: fit-content;
+    text-align: center;
+    border: 1px solid;
+}
