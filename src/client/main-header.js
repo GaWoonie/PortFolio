@@ -20,6 +20,7 @@ class MainHeader extends Component{
             <MainHeaderBlock>
             <div>
                 <h2>메인 제목</h2>
+                <img src="./logo192.png" alt="React" style={{float:"right",width:'70px',position:'absolute',top:'2%',right:'2%'}}/>
             </div>
             </MainHeaderBlock>
         );

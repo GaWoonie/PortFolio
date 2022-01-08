@@ -8,8 +8,8 @@ const MainFooterBlock = styled.div`
 width: 100%;
 height: 100px;
 background: #dee2e6;
-// position: relative;
-position: fixed;
+position: relative;
+// position: fixed;
 bottom: 0;
 text-align: center;
 `;

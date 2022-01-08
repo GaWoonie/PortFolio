@@ -1,5 +1,6 @@
 * {
   user-select: none;
+  word-break:keep-all;
 }
 
 
@@ -10,8 +11,8 @@
 .pageUP{
   color: darkgray;
   position: fixed;
-  bottom: 105px;
-  right: 10px;
+  bottom: 2%;
+  right: 2%;
   cursor: pointer;
 }
 

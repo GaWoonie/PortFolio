@@ -5,6 +5,8 @@ import './clientCSS/project.css'
 class Project extends Component {
     render() {
         return(
+            <>
+            <h1>Project</h1>
             <div className="project-wrap">
                 <div className="project">
                     <p>프로젝트 img</p>
@@ -23,6 +25,7 @@ class Project extends Component {
                     <p>프로젝트 설명 클릭하면 모달로 나오도록 설정</p>
                 </div>
             </div>
+            </>
         );
     }
 }
